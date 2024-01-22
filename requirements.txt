@@ -1,0 +1,6 @@
+ccxt==4.1.95
+pandas==2.1.4
+matplotlib==3.8.2
+duka==0.2.0
+seaborn==0.13.1
+ta==0.11.0
